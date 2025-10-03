@@ -116,6 +116,11 @@ pandas
 # Supports Kafka 3.5+ with KRaft mode (no ZooKeeper required)
 kafka-python-ng
 
+# Cross-platform support (needed for some modules)
+PyQt6; sys_platform != "win32"
+six
+
+
 # ======================================================
 # DATABASE INTEGRATION 
 # ======================================================

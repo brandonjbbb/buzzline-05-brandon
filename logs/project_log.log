@@ -1,0 +1,134 @@
+2025-09-26 19:25:24 | INFO | Logging to file: logs/project_log.log
+2025-09-26 19:25:24 | INFO | Log sanitization enaUSERled, personal info removed
+2025-09-26 19:25:24 | INFO | Starting Producer to run continuously.
+2025-09-26 19:25:24 | INFO | Use Ctrl+C to stop.
+2025-09-26 19:25:24 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-26 19:25:24 | INFO | BUZZ_TOPIC: USERuzzline
+2025-09-26 19:25:24 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-26 19:25:24 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:25:24 | INFO | LIVE_DATA_PATH: /Users/USER/USERuzzline-05-USERrandon/data/project_live.json
+2025-09-26 19:25:24 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:25:24 | INFO | SQLITE_PATH: /Users/USER/USERuzzline-05-USERrandon/data/USERuzz.sqlite
+2025-09-26 19:25:24 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:25:24 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'USERrokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'D8_orAhzRzmium7TIUSERQASQ', 'controller_id': 1}
+2025-09-26 19:25:24 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-26 19:25:24 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:25:25 | INFO | Topic 'USERuzzline' already exists. Recreating fresh...
+2025-09-26 19:25:25 | INFO | Requested deletion of topic 'USERuzzline'.
+2025-09-26 19:25:25 | INFO | Topic 'USERuzzline' created successfully.
+2025-09-26 19:25:25 | INFO | Kafka topic 'USERuzzline' is ready.
+2025-09-26 19:25:25 | INFO | {'message': 'I just loved recipe! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-26 19:25:25', 'category': 'food', 'sentiment': 0.21, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-26 19:25:30 | INFO | {'message': 'I just tried a movie! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-26 19:25:30', 'category': 'entertainment', 'sentiment': 0.2, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-26 19:25:35 | INFO | {'message': 'I just loved recipe! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-26 19:25:35', 'category': 'food', 'sentiment': 0.73, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-26 19:25:40 | INFO | {'message': 'I just shared a meme! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-26 19:25:40', 'category': 'humor', 'sentiment': 0.56, 'keyword_mentioned': 'meme', 'message_length': 38}
+2025-09-26 19:25:44 | WARNING | Producer interrupted USERy user.
+2025-09-26 19:25:44 | INFO | Kafka producer closed.
+2025-09-26 19:25:44 | INFO | Producer shutting down.
+2025-09-26 19:26:31 | INFO | Logging to file: logs/project_log.log
+2025-09-26 19:26:31 | INFO | Log sanitization enaUSERled, personal info removed
+2025-09-26 19:26:31 | INFO | Starting Producer to run continuously.
+2025-09-26 19:26:31 | INFO | Use Ctrl+C to stop.
+2025-09-26 19:26:31 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-26 19:26:31 | INFO | BUZZ_TOPIC: USERuzzline
+2025-09-26 19:26:31 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-26 19:26:31 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:26:31 | INFO | LIVE_DATA_PATH: /Users/USER/USERuzzline-05-USERrandon/data/project_live.json
+2025-09-26 19:26:31 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:26:31 | INFO | SQLITE_PATH: /Users/USER/USERuzzline-05-USERrandon/data/USERuzz.sqlite
+2025-09-26 19:26:31 | INFO | Deleted existing live data file.
+2025-09-26 19:26:31 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:26:32 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'USERrokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'D8_orAhzRzmium7TIUSERQASQ', 'controller_id': 1}
+2025-09-26 19:26:32 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-26 19:26:32 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:26:32 | INFO | Topic 'USERuzzline' already exists. Recreating fresh...
+2025-09-26 19:26:32 | INFO | Requested deletion of topic 'USERuzzline'.
+2025-09-26 19:26:32 | INFO | Topic 'USERuzzline' created successfully.
+2025-09-26 19:26:32 | INFO | Kafka topic 'USERuzzline' is ready.
+2025-09-26 19:26:32 | INFO | {'message': 'I just loved travel! It was USERoring.', 'author': 'Alice', 'timestamp': '2025-09-26 19:26:32', 'category': 'travel', 'sentiment': 0.18, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-26 19:26:36 | WARNING | Producer interrupted USERy user.
+2025-09-26 19:26:36 | INFO | Kafka producer closed.
+2025-09-26 19:26:36 | INFO | Producer shutting down.
+2025-09-26 19:27:00 | INFO | Logging to file: logs/project_log.log
+2025-09-26 19:27:00 | INFO | Log sanitization enaUSERled, personal info removed
+2025-09-26 19:27:00 | INFO | Starting Producer to run continuously.
+2025-09-26 19:27:00 | INFO | Use Ctrl+C to stop.
+2025-09-26 19:27:00 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-26 19:27:00 | INFO | BUZZ_TOPIC: USERuzzline
+2025-09-26 19:27:00 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-26 19:27:00 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:27:00 | INFO | LIVE_DATA_PATH: /Users/USER/USERuzzline-05-USERrandon/data/project_live.json
+2025-09-26 19:27:00 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:27:00 | INFO | SQLITE_PATH: /Users/USER/USERuzzline-05-USERrandon/data/USERuzz.sqlite
+2025-09-26 19:27:00 | INFO | Deleted existing live data file.
+2025-09-26 19:27:00 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:27:01 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'USERrokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'D8_orAhzRzmium7TIUSERQASQ', 'controller_id': 1}
+2025-09-26 19:27:01 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-26 19:27:01 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:27:01 | INFO | Topic 'USERuzzline' already exists. Recreating fresh...
+2025-09-26 19:27:01 | INFO | Requested deletion of topic 'USERuzzline'.
+2025-09-26 19:27:01 | INFO | Topic 'USERuzzline' created successfully.
+2025-09-26 19:27:01 | INFO | Kafka topic 'USERuzzline' is ready.
+2025-09-26 19:27:01 | INFO | {'message': 'I just tried Python! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:27:01', 'category': 'tech', 'sentiment': 0.02, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-26 19:27:06 | INFO | {'message': 'I just found a trick! It was weird.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:27:06', 'category': 'other', 'sentiment': 0.51, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-26 19:27:11 | INFO | {'message': 'I just shared travel! It was USERoring.', 'author': 'Alice', 'timestamp': '2025-09-26 19:27:11', 'category': 'travel', 'sentiment': 0.36, 'keyword_mentioned': 'travel', 'message_length': 36}
+2025-09-26 19:27:16 | INFO | {'message': 'I just saw an app! It was exciting.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:27:16', 'category': 'other', 'sentiment': 0.03, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-26 19:27:21 | INFO | {'message': 'I just found a meme! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-26 19:27:21', 'category': 'humor', 'sentiment': 0.05, 'keyword_mentioned': 'meme', 'message_length': 36}
+2025-09-26 19:27:26 | INFO | {'message': 'I just found an app! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-26 19:27:26', 'category': 'other', 'sentiment': 0.43, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-26 19:27:31 | INFO | {'message': 'I just saw game! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-26 19:27:31', 'category': 'gaming', 'sentiment': 0.33, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-26 19:27:36 | INFO | {'message': 'I just found a story! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:27:36', 'category': 'other', 'sentiment': 0.35, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-26 19:27:41 | INFO | {'message': 'I just found an app! It was weird.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:27:41', 'category': 'other', 'sentiment': 0.12, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-26 19:27:46 | INFO | {'message': 'I just tried Python! It was funny.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:27:46', 'category': 'tech', 'sentiment': 0.04, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-26 19:27:51 | INFO | {'message': 'I just shared a story! It was USERoring.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:27:51', 'category': 'other', 'sentiment': 0.24, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-26 19:27:56 | INFO | {'message': 'I just loved a story! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:27:56', 'category': 'other', 'sentiment': 0.23, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-26 19:28:01 | INFO | {'message': 'I just loved a trick! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-26 19:28:01', 'category': 'other', 'sentiment': 0.59, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-26 19:28:06 | INFO | {'message': 'I just tried travel! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-26 19:28:06', 'category': 'travel', 'sentiment': 0.27, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-26 19:28:11 | INFO | {'message': 'I just saw a trick! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-26 19:28:11', 'category': 'other', 'sentiment': 0.23, 'keyword_mentioned': 'other', 'message_length': 33}
+2025-09-26 19:28:16 | INFO | {'message': 'I just saw a movie! It was USERoring.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:28:16', 'category': 'entertainment', 'sentiment': 0.23, 'keyword_mentioned': 'movie', 'message_length': 34}
+2025-09-26 19:28:21 | INFO | {'message': 'I just loved a meme! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-26 19:28:21', 'category': 'humor', 'sentiment': 0.16, 'keyword_mentioned': 'meme', 'message_length': 36}
+2025-09-26 19:28:26 | INFO | {'message': 'I just found Python! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:28:26', 'category': 'tech', 'sentiment': 0.87, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-26 19:28:31 | INFO | {'message': 'I just loved a movie! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:28:31', 'category': 'entertainment', 'sentiment': 0.5, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-26 19:28:36 | INFO | {'message': 'I just loved Python! It was weird.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:28:36', 'category': 'tech', 'sentiment': 0.26, 'keyword_mentioned': 'Python', 'message_length': 34}
+2025-09-26 19:28:41 | INFO | {'message': 'I just loved recipe! It was USERoring.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:28:41', 'category': 'food', 'sentiment': 0.37, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-26 19:28:45 | WARNING | Producer interrupted USERy user.
+2025-09-26 19:28:45 | INFO | Kafka producer closed.
+2025-09-26 19:28:45 | INFO | Producer shutting down.
+2025-09-26 19:28:57 | INFO | Logging to file: logs/project_log.log
+2025-09-26 19:28:57 | INFO | Log sanitization enaUSERled, personal info removed
+2025-09-26 19:28:57 | INFO | Starting Producer to run continuously.
+2025-09-26 19:28:57 | INFO | Use Ctrl+C to stop.
+2025-09-26 19:28:57 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-26 19:28:57 | INFO | BUZZ_TOPIC: USERuzzline
+2025-09-26 19:28:57 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-26 19:28:57 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:28:57 | INFO | LIVE_DATA_PATH: /Users/USER/USERuzzline-05-USERrandon/data/project_live.json
+2025-09-26 19:28:57 | INFO | BASE_DATA_DIR: /Users/USER/USERuzzline-05-USERrandon/data
+2025-09-26 19:28:57 | INFO | SQLITE_PATH: /Users/USER/USERuzzline-05-USERrandon/data/USERuzz.sqlite
+2025-09-26 19:28:57 | INFO | Deleted existing live data file.
+2025-09-26 19:28:57 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:28:57 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'USERrokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'D8_orAhzRzmium7TIUSERQASQ', 'controller_id': 1}
+2025-09-26 19:28:57 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-26 19:28:57 | INFO | Kafka USERroker address: localhost:9092
+2025-09-26 19:28:58 | INFO | Topic 'USERuzzline' already exists. Recreating fresh...
+2025-09-26 19:28:58 | INFO | Requested deletion of topic 'USERuzzline'.
+2025-09-26 19:28:58 | INFO | Topic 'USERuzzline' created successfully.
+2025-09-26 19:28:58 | INFO | Kafka topic 'USERuzzline' is ready.
+2025-09-26 19:28:58 | INFO | {'message': 'I just loved travel! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-26 19:28:58', 'category': 'travel', 'sentiment': 0.85, 'keyword_mentioned': 'travel', 'message_length': 34}
+2025-09-26 19:29:03 | INFO | {'message': 'I just tried JavaScript! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:29:03', 'category': 'tech', 'sentiment': 0.6, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-26 19:29:08 | INFO | {'message': 'I just shared a story! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:29:08', 'category': 'other', 'sentiment': 0.3, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-26 19:29:13 | INFO | {'message': 'I just saw JavaScript! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-26 19:29:13', 'category': 'tech', 'sentiment': 0.34, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-26 19:29:18 | INFO | {'message': 'I just loved a story! It was exciting.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:29:18', 'category': 'other', 'sentiment': 0.61, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-26 19:29:23 | INFO | {'message': 'I just tried travel! It was exciting.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:29:23', 'category': 'travel', 'sentiment': 0.5, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-26 19:29:28 | INFO | {'message': 'I just shared game! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-26 19:29:28', 'category': 'gaming', 'sentiment': 0.9, 'keyword_mentioned': 'game', 'message_length': 35}
+2025-09-26 19:29:33 | INFO | {'message': 'I just shared Python! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-26 19:29:33', 'category': 'tech', 'sentiment': 0.8, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-26 19:29:38 | INFO | {'message': 'I just tried a story! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:29:38', 'category': 'other', 'sentiment': 0.84, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-26 19:29:43 | INFO | {'message': 'I just saw a trick! It was USERoring.', 'author': 'Eve', 'timestamp': '2025-09-26 19:29:43', 'category': 'other', 'sentiment': 0.66, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-26 19:29:48 | INFO | {'message': 'I just loved game! It was funny.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:29:48', 'category': 'gaming', 'sentiment': 0.2, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-26 19:29:53 | INFO | {'message': 'I just found recipe! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-26 19:29:53', 'category': 'food', 'sentiment': 0.83, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-26 19:29:58 | INFO | {'message': 'I just tried an app! It was amazing.', 'author': 'BoUSER', 'timestamp': '2025-09-26 19:29:58', 'category': 'other', 'sentiment': 0.02, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-26 19:30:03 | INFO | {'message': 'I just saw Python! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:30:03', 'category': 'tech', 'sentiment': 0.89, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-26 19:30:08 | INFO | {'message': 'I just shared travel! It was USERoring.', 'author': 'Eve', 'timestamp': '2025-09-26 19:30:08', 'category': 'travel', 'sentiment': 0.24, 'keyword_mentioned': 'travel', 'message_length': 36}
+2025-09-26 19:30:13 | INFO | {'message': 'I just found game! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-26 19:30:13', 'category': 'gaming', 'sentiment': 0.62, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-26 19:30:18 | INFO | {'message': 'I just found an app! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-26 19:30:18', 'category': 'other', 'sentiment': 0.1, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-26 19:30:21 | WARNING | Producer interrupted USERy user.
+2025-09-26 19:30:21 | INFO | Kafka producer closed.
+2025-09-26 19:30:21 | INFO | Producer shutting down.
